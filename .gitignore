@@ -1,4 +1,1 @@
-*.pyc
-*/*.pyc
-*/*/*.pyc
-node_modules
+frontend/node_modules/
